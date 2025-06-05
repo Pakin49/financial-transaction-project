@@ -1,0 +1,7 @@
+hadoop jar ///usr/lib/hadoop/hadoop-streaming-3.3.6.jar \
+-files mapper2.py,reducer.py   \
+-mapper mapper2.py  \
+-numReduceTasks 1  \
+-reducer reducer.py \
+-input gs://fraud-detection-map-reduce/financial_fraud_detection_dataset.csv  \
+-output gs://fraud-detection-map-reduce/output2
