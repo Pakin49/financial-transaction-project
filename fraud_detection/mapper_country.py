@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*-coding:utf-8 -*
 import sys
 
 for line in sys.stdin:
@@ -6,7 +7,6 @@ for line in sys.stdin:
     columns = line.split(',') # split line into list 
     if columns[9] == "True":
         try:
-            print(f"{columns[6]}\t1") #merchat_type
-            #print(f"{columns[7]}\t1") #country
+            print(f"{columns[7]}\t1")
         except ValueError:
             pass

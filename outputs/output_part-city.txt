@@ -1,0 +1,199 @@
+AA	6
+AK	7581
+AL	177256
+AR	112893
+AZ	195929
+Albania	5
+Algeria	8
+Andorra	32
+Antigua and Barbuda	16
+Argentina	95
+Aruba	527
+Australia	569
+Austria	613
+Azerbaijan	2
+Bahrain	14
+Bangladesh	31
+Barbados	123
+Belgium	253
+Belize	21
+Benin	5
+Bosnia and Herzegovina	54
+Brazil	803
+Brunei	3
+Burkina Faso	13
+CA	1427009
+CO	168010
+CT	136948
+Cabo Verde	35
+Cameroon	15
+Canada	10647
+Chile	87
+China	2908
+Colombia	862
+Costa Rica	712
+Cote d'Ivoire	80
+Croatia	31
+Cyprus	8
+Czech Republic	454
+DC	13174
+DE	32459
+Denmark	369
+Dominican Republic	1559
+East Timor (Timor-Leste)	19
+Ecuador	26
+Egypt	149
+Equatorial Guinea	3
+Eritrea	24
+Estonia	22
+Ethiopia	3
+FL	701580
+Fiji	8
+Finland	185
+France	2836
+GA	368177
+Gabon	3
+Georgia	34
+Germany	3025
+Ghana	29
+Greece	403
+Guatemala	27
+Guinea	6
+Guyana	6
+HI	76146
+Haiti	386
+Honduras	59
+Hong Kong	602
+Hungary	269
+IA	161257
+ID	55887
+IL	467907
+IN	312453
+Iceland	40
+India	1608
+Indonesia	194
+Iran	26
+Iraq	6
+Ireland	958
+Israel	941
+Italy	7080
+Jamaica	1176
+Japan	2107
+Jordan	14
+KS	99436
+KY	170007
+Kenya	115
+Kosovo	13
+Kyrgyzstan	14
+LA	159707
+Latvia	32
+Lebanon	8
+Liberia	38
+Lithuania	45
+Luxembourg	83
+MA	166454
+MD	193768
+ME	43107
+MI	397951
+MN	178792
+MO	195847
+MS	133040
+MT	27577
+Macedonia	128
+Malaysia	150
+Maldives	28
+Mali	12
+Malta	6
+Marshall Islands	11
+Mexico	27400
+Micronesia	21
+Moldova	15
+Monaco	7
+Mongolia	39
+Montenegro	22
+Morocco	31
+Mozambique	16
+Myanmar (Burma)	16
+NC	429398
+ND	22835
+NE	54723
+NH	56516
+NJ	322213
+NM	109640
+NV	88641
+NY	857469
+Nauru	54
+Netherlands	1498
+New Zealand	206
+Niger	22
+Nigeria	54
+Norway	365
+OH	484100
+OK	159898
+OR	99921
+Oman	85
+PA	417742
+Pakistan	403
+Panama	14
+Papua New Guinea	20
+Peru	491
+Philippines	664
+Poland	252
+Portugal	369
+Qatar	22
+RI	53963
+Republic of the Congo	10
+Romania	50
+Russia	227
+SC	172742
+SD	31088
+Saint Vincent and the Grenadines	10
+Samoa	9
+Saudi Arabia	156
+Senegal	13
+Serbia	55
+Seychelles	22
+Sierra Leone	13
+Singapore	121
+Slovakia	39
+Slovenia	51
+Solomon Islands	3
+South Africa	339
+South Korea	1153
+South Sudan	12
+Spain	1651
+Sri Lanka	55
+Sudan	8
+Suriname	3
+Swaziland	9
+Sweden	224
+Switzerland	1091
+TN	284689
+TX	1010153
+Taiwan	962
+Thailand	461
+The Bahamas	994
+Tonga	2
+Trinidad and Tobago	13
+Tunisia	4
+Turkey	75
+Tuvalu	5
+UT	37647
+Ukraine	82
+United Arab Emirates	300
+United Kingdom	4482
+Uruguay	46
+Uzbekistan	14
+VA	230669
+VT	23771
+Vanuatu	14
+Vatican City	101
+Venezuela	9
+Vietnam	73
+WA	286517
+WI	172262
+WV	56916
+WY	8747
+Yemen	11
+Zambia	18
+Zimbabwe	16
