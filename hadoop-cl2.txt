@@ -1,7 +1,7 @@
 hadoop jar ///usr/lib/hadoop/hadoop-streaming-3.3.6.jar \
--files mapper_city.py,reducer.py   \
--mapper mapper_city.py  \
+-files mapper_city2.py,reducer2.py   \
+-mapper mapper_city2.py  \
 -numReduceTasks 1  \
--reducer reducer.py \
+-reducer reducer2.py \
 -input gs://financial-transaction-proj/transactions_data.csv \
--output gs://financial-transaction-proj/output
+-output gs://financial-transaction-proj/output_pakin

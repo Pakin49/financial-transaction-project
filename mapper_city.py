@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
 import sys
-import csv
 
-reader = csv.reader(sys.stdin)
-count = 0
-for columns in reader :
-    if(count==0):
-        count+=1
+for line in sys.stdin:
+    line = line.strip()
+    columns = line.split(",")
+    if columns[0] == "id":
         continue
-    if len(columns) > 8 and columns[8].strip()!="":
-        try:
-            print(f"{columns[8]}\t1") 
-        except ValueError:
-            print("bruh")
-            pass
+    if len(columns) == 12:
+        merchant_state = columns[8]
+        if merchant_state and merchant_state != "":
+            try:
+                print(f"{merchant_state}\t1")
+            except ValueError:
+                pass

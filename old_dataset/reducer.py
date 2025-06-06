@@ -3,11 +3,13 @@ import sys
 from collections import defaultdict
 
 counts = defaultdict(int)
+
 for line in sys.stdin:
     try:
         word, count = line.strip().split('\t')
         counts[word] += int(count)
-    except:
+    except Exception:
+        # skip malformed lines
         continue
 
 for word, count in counts.items():
