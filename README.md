@@ -19,5 +19,5 @@ The count of transactions involved in each year
 ## Fraud Detection Dataset 🔍
 Dataset Source : https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection?resource=download
 
-### [Fraud Detection](./Fraud%20Detection/)
+### [Fraud Detection](./fraud%20detection/)
 for fraud detection data 
