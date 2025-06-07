@@ -11,13 +11,13 @@ This lists the number of states and countries involved in the transactions. Each
 
 #### [python_mapper_code](./mapper_city.py)
 #### [python_reducer_code](./reducer.py)
-#### [output](./outputs/output_part-city.txt)
+#### [output](./outputs/output_part_city.txt)
 
 ### Transaction Summary by year (from 2010-2019)
 This list the amount of transactions involved in each year, along with the total amount of money (in US dollars) and the average amount of money per year
 #### [python_mapper_code](./mapper_year.py)
 #### [python_reducer_code](./reducer.py)
-#### [output](./outputs/output_part-year.txt)
+#### [output](./outputs/output_part_year.txt)
 
 ## Fraud Detection Dataset 🔍
 Dataset Source : https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection?resource=download
