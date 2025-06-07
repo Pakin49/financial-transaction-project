@@ -3,21 +3,30 @@ This comprehensive financial dataset combines transaction records, customer info
 
 Dataset Source : https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download&select=transactions_data.csv
 
-What we did was using Google Cloud Service along with hadoop MapReduce to analyze the large amount of data 
+What we did was using Google Cloud Service with hadoop MapReduce to analyze the large amount of data and then uploaded the output to MongoDB
 
 ## Analyzed data ✨
-### mapper_city
-The count of each state and country involved in the transactions 
-#### [python_code](./mapper_city.py)
+### Transaction Summary by State/Country
+This lists the number of states and countries involved in the transactions. Each line includes the amount of times, the total amount of money (in US dollars) and the average amount of money each country has involved in a transaction
+
+#### [python_mapper_code](./mapper_city.py)
+#### [python_reducer_code](./reducer.py)
 #### [output](./outputs/output_part-city.txt)
 
-### mapper_year
-The count of transactions involved in each year 
+### Transaction Summary by year (from 2010-2019)
+This list the amount of transactions involved in each year, along with the total amount of money (in US dollars) and the average amount of money per year
 #### [python_code](./mapper_year.py)
+#### [python_reducer_code](./reducer.py)
 #### [output](./outputs/output_part-year.txt)
 
 ## Fraud Detection Dataset 🔍
 Dataset Source : https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection?resource=download
 
 ### [Fraud Detection](./fraud_detection/)
-for fraud detection data 
+for fraud detection mapper and reducer
+
+## Members 🙆‍♀️
+### Rapeepat Pokpattanakul 6480358
+### Mark Kittiphat Kuprasertwong 6481322
+### Pakin Panawattanakul 6580043
+### Nitchayanin Thamkunaon 6580081
