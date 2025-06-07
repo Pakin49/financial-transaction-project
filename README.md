@@ -19,12 +19,6 @@ This list the amount of transactions involved in each year, along with the total
 #### [python_reducer_code](./reducer.py)
 #### [output](./outputs/output_part_year.txt)
 
-## Fraud Detection Dataset 🔍
-Dataset Source : https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection?resource=download
-
-### [Fraud Detection](./fraud_detection/)
-for fraud detection mapper and reducer
-
 ## Members 🙆‍♀️
 ### Rapeepat Pokpattanakul 6480358
 ### Mark Kittiphat Kuprasertwong 6481322
