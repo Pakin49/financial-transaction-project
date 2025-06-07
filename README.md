@@ -15,7 +15,7 @@ This lists the number of states and countries involved in the transactions. Each
 
 ### Transaction Summary by year (from 2010-2019)
 This list the amount of transactions involved in each year, along with the total amount of money (in US dollars) and the average amount of money per year
-#### [python_code](./mapper_year.py)
+#### [python_mapper_code](./mapper_year.py)
 #### [python_reducer_code](./reducer.py)
 #### [output](./outputs/output_part-year.txt)
 
