@@ -19,6 +19,9 @@ This list the amount of transactions involved in each year, along with the total
 #### [python_reducer_code](./reducer.py)
 #### [output](./outputs/output_part_year.txt)
 
+## Database (MongoDB) 💖
+### [MongoDB_Midterm](./BigData_midterm_proj.ipynb)
+
 ## Members 🙆‍♀️
 ### Rapeepat Pokpattanakul 6480358
 ### Mark Kittiphat Kuprasertwong 6481322
