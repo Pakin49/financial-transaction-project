@@ -23,6 +23,7 @@ This list the amount of transactions involved in each year, along with the total
 Here is the file that we used to move the output file to MongoDB
 #### [MongoDB_Midterm](./BigData_midterm_proj.ipynb)
 
+## Spark Machine Learning 💫
 For the Final Project, we used Spark Machine Learning to train models based on specified features, here is the code with description about what we did
 #### [Analyzing Financial Transaction data with Spark ML](./FinancialTransactionsFinalProject.ipynb)
 
